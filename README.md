@@ -2,7 +2,7 @@
 Homework for Module 4
 
 **Overview**
-
+As the new Chief Data Scientist for our city's school district. I'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities. My first task, will be to analyze the district-wide standardized test results to discern obvious trends in school performance.
 
 **Analysis**
 - All of the top 5 Highest-Performing Schools (by % Overall Passing) are charter schools whereas the 5 Bottom-Performing Schools (by % Overall Passing) are district schools.
